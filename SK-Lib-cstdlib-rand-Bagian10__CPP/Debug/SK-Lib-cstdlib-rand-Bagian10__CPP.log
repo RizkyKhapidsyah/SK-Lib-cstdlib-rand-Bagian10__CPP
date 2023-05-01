@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-rand-Bagian10__CPP\SK-Lib-cstdlib-rand-Bagian10__CPP\Source.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SK-Lib-cstdlib-rand-Bagian10__CPP.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-rand-Bagian10__CPP\Debug\SK-Lib-cstdlib-rand-Bagian10__CPP.exe
